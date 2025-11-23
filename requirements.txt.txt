@@ -3,7 +3,7 @@ yfinance
 pandas
 numpy
 pandas-market-calendars
-plotly
+plotly==5.20.0
 statsmodels
 scikit-learn
 pytz
